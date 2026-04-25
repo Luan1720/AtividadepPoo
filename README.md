@@ -57,7 +57,6 @@ class Program
         a.CalcularNotaFinal();
     }
 }
-//=====================================================
 
 using System;
 
@@ -116,7 +115,7 @@ class Program
         c.MostrarSaldo();
     }
 }
-//=====================================================
+
 using System;
 
 class Produto
@@ -179,7 +178,7 @@ class Program
         p.MostrarProduto();
     }
 }
-//=====================================================
+
 using System;
 
 class CalculadoraDeSalario
@@ -228,7 +227,7 @@ class Program
         c.MostrarSalario();
     }
 }
-//=====================================================
+
 using System;
 
 class Hospede
@@ -317,7 +316,7 @@ class Program
         r.MostrarReserva();
     }
 }
-//=====================================================
+
 using System;
 
 class Cliente
@@ -522,7 +521,7 @@ class Program
         pedido.ExibirResumo();
     }
 }
-//=====================================================
+
 using System;
 
 class Filme
@@ -578,7 +577,7 @@ class Program
         f2.ExibirResumo();
     }
 }
-//================================================
+
 using System;
 
 public class ReservaHotel
